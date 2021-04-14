@@ -1,0 +1,11 @@
+tkinter
+urllib
+matplotlib == 3.4.1
+numpy == 1.20.2
+pandas == 1.2.4
+Keras == 2.4.3
+tensorflow == 2.4.1
+Pillow == 8.2.0
+selenium == 3.141.0
+Sklearn
+BeautifulSoup4 == 4.9.3
